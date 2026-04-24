@@ -1,7 +1,7 @@
 import telebot
 import requests # Boshqa saytlarga buyurtma yuborish uchun
 
-BOT_TOKEN = '8659157555:AAG1v3nGfFlc4ZRIq2Pj5N0GqvFYEx6oG_M'
+BOT_TOKEN = '8659157555:AAF_hy5wj4KPtky9r8HO-1mBjWAfcXsjJMI'
 PANEL_API_KEY = '1a321763e449228140a11028135671df' # Mana shu yerga qo'yasiz
 
 bot = telebot.TeleBot(BOT_TOKEN)
